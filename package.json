@@ -1,0 +1,27 @@
+{
+  "name": "saleh-rahimzadeh.docker",
+  "version": "1.0.0",
+  "description": "Saleh Rahimzadeh Docker Repository",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saleh-rahimzadeh/saleh-rahimzadeh.docker.git"
+  },
+  "keywords": [
+    "Saleh",
+    "Rahimzadeh",
+    "Saleh Rahimzadeh"
+  ],
+  "author": "Saleh Rahimzadeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saleh-rahimzadeh/saleh-rahimzadeh.docker/issues"
+  },
+  "homepage": "https://github.com/saleh-rahimzadeh/saleh-rahimzadeh.docker#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
